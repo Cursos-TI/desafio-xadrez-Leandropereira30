@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-int main(){
-    printf("desafio xadrez!\n");
-}
-
+int main() {
     // ========================
     // Movimento da TORRE (for)
     // ========================
